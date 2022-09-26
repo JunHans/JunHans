@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=PARK&fontSize=90)
+![화면 캡처 2022-09-26 143930](https://user-images.githubusercontent.com/100855525/192206657-515b2835-6ceb-440a-bd1d-c33450a23532.png)
+
 
 # Welcome 👋
 
@@ -29,6 +30,5 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park71405)](https://github.com/park71405/github-readme-stats)
 
 
