@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHans&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunHans&layout=compact)](https://github.com/anuraghazra/github-reame-stats)
 
